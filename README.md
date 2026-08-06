@@ -45,4 +45,4 @@ The files are provided for research reproducibility and prototyping only. They d
 
 ## License
 
-The code is released under the MIT License unless otherwise stated. The data and figures are released under CC BY 4.0.
+The code is released under the License unless otherwise stated. The data and figures are released under CC BY 4.0.
